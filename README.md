@@ -18,7 +18,8 @@ storytelling, analyze the data and present different (i) data frames; and (ii) v
 
 Example: Vis = [“Name”, “Gender”, “Track”, “Math<70”]; hometown is constant as Visayas  
 
-Output:
+Output:  
+
 <img width="751" height="141" alt="image" src="https://github.com/user-attachments/assets/db0f8fce-93f0-4c26-95d9-dd49d849e319" />
 
 a. Filename: Instru = [“Name”, “GEAS”, “Electronics >70”]; where track is constant as Instrumentation and hometown Luzon
